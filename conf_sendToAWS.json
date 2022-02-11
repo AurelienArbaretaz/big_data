@@ -1,0 +1,8 @@
+{
+    "username":"ec2-user",
+    "adresse":"ec2-44-202-123-146.compute-1.amazonaws.com",
+    "destination":"/home/ec2-user/data.csv",
+    "file":"./data.csv",
+    "pathFilePEM":"./key-ec2.pem",
+    "predictFile":"predict.csv"
+}

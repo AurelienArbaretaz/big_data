@@ -1,0 +1,9 @@
+{
+    "hadoopServer":"localhost",
+    "hadoopPort":2222,
+    "hadoopUser":"maria_dev",
+    "hadoopPassword":"maria_dev",
+    "remotePathHDFS":"data/data.csv",
+    "remotePathHadoop":"./data.csv",
+    "localPath":"./data.csv"
+}
